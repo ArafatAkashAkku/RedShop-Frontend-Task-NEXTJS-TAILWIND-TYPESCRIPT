@@ -4,7 +4,7 @@ First, clone the project:
 
 ```bash
 #first
-git clone mocktwilight
+git clone https://github.com/ArafatAkashAkku/RedShop-Frontend-Task-NEXTJS-TAILWIND-TYPESCRIPT.git mocktwilight
 # or
 cd .\mocktwilight\
 # or
