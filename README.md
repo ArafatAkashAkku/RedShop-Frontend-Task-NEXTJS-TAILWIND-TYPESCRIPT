@@ -8,9 +8,6 @@ git clone https://github.com/ArafatAkashAkku/RedShop-Frontend-Task-NEXTJS-TAILWI
 ```bash
 cd .\mocktwilight\
 ```
-```bash
-code -r .\mocktwilight\
-```
 
 Second, run the development server:
 
