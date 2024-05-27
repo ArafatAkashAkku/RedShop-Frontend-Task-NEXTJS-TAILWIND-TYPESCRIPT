@@ -3,20 +3,21 @@
 First, clone the project:
 
 ```bash
-#first
 git clone https://github.com/ArafatAkashAkku/RedShop-Frontend-Task-NEXTJS-TAILWIND-TYPESCRIPT.git mocktwilight
-# or
+```
+```bash
 cd .\mocktwilight\
-# or
+```
+```bash
 code -r .\mocktwilight\
 ```
 
 Second, run the development server:
 
 ```bash
-#first
 npm install
-# then
+```
+```bash
 npm run dev
 ```
 
